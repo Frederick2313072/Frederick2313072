@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm frederick</h1>
 <h3 align="center">A passionate backend developer from Shanghai,I'm now living in Suzhou</h3>
 
-- 🔭 I’m currently working on [dify](https://github.com/langgenius/dify)
-
 - 👯 I’m looking to collaborate on [offerin](https://github.com/PeerPortal)
 
 - 📝 I regularly write articles on [https://frederick2313072.github.io/](https://frederick2313072.github.io/)
