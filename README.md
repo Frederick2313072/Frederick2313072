@@ -5,13 +5,12 @@
 
 - 📝 I regularly write articles on [https://frederick2313072.github.io/](https://frederick2313072.github.io/)
 
-- 🤔 I’m looking for help with **Agentic AI Security**
 
 - 📫 How to reach me **2313072@mail.nankai.edu.cn
 
 - ⚡ Fun fact: My passion for coding is on a hiatus. Please don't contact me if you're interested in programming languages, especially Rust.
 
-- 线上二次元，请不要拆盒，不想掉马甲
+- 摆烂中，不想创业，不想实习，不想工作
 
 ### 📊 My GitHub Stats
 
